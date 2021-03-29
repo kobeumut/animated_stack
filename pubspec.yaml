@@ -1,7 +1,8 @@
 name: animated_stack
 description: Custom animated stacked pages, to create customisable side menu buttons.
 version: 0.1.1
-homepage: https://github.com/Emadeddin-eibo/animated_stack
+homepage: https://github.com/kobeumut/animated_stack
+publish_to: none
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
